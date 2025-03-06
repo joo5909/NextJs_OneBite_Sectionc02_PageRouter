@@ -1,0 +1,9 @@
+html,
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(250, 250, 250);
+  color: #333;
+}
